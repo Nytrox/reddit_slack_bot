@@ -121,3 +121,9 @@ dmypy.json
 # CONFIG files
 CONFIG
 *.config
+
+# MAC
+.DS_Store
+
+# VSCode files
+.vscode/
